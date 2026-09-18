@@ -1,8 +1,10 @@
+![ML Level](https://img.shields.io/badge/ML_Level-1.0_%C2%B7_Foundations-lightgrey)
+
 # Exam Score Predictor
 
 Predicts a student's exam score from five everyday habits — study hours, attendance, sleep, mental health rating, and whether they hold a part-time job — using scikit-learn, with a small Streamlit app for trying it out interactively.
 
-This was my first ML project taken end-to-end: EDA, feature engineering, model comparison, and a working app on top of the trained model. It's intentionally scoped small — the goal was to get every step of the pipeline right, not to maximize accuracy.
+This was my first ML project taken end-to-end: EDA, feature engineering, model comparison, and a working app on top of the trained model. It's intentionally scoped small — the goal was to get every step of the pipeline right, not to maximize accuracy. First entry in an ongoing ML learning path — see [`ML-02-customer-churn-prediction`](https://github.com/jmb-python-developer/ML-02-customer-churn-prediction) for what comes next.
 
 ## Dataset
 
